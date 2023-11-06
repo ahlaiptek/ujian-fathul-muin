@@ -35,8 +35,13 @@
     "answer": "Tanpa pemisah dan tidak adanya ta'liq"
   },
   {
-    "question": "Apa hukumnya meminjamkan uang emas/perak untuk digadaikan aujah?",
+    "question": "Apa hukumnya meminjamkan uang emas/perak untuk digadaikan?",
     "options": ["Tidak sah", "Sah", "Menurut aujah sah"],
     "answer": "Menurut aujah sah"
+  },
+  {
+    "question": "Apa hukumnya meminjamkan uang emas/perak untuk selain digadaikan?",
+    "options": ["Tidak sah", "Sah", "Menurut aujah sah"],
+    "answer": "Tidak sah"
   }
 ]
