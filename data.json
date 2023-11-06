@@ -1,12 +1,27 @@
 [
   {
-    "question": "Apa ibukota Indonesia?",
-    "options": ["Jakarta", "Surabaya", "Bandung", "Medan"],
-    "answer": "Jakarta"
+    "question": "Apa hukumnya aqad jual beli dengan keadaan bercanda?",
+    "options": ["Tidak sah", "Sah"],
+    "answer": "Sah"
   },
   {
-    "question": "Siapa presiden pertama Indonesia?",
-    "options": ["Soekarno", "Soeharto", "Jokowi", "Megawati"],
-    "answer": "Soekarno"
+    "question": "Hai orang-orang yang beriman, janganlah kamu saling memakan harta sesamamu dengan jalan yang bathil, kecuali dengan jalan perniagaan yang berlaku dengan suka sama suka di antaramu?",
+    "options": ["QS. 4:29", "QS. 4:28", "QS. 3:130"],
+    "answer": "QS. 4:29"
+  },
+  {
+    "question": "Pada QS. 4:29 sudah dijelaskan bahwa harus saling ridha. Namun pada hal apakah tidak disyaratkan ridha?",
+    "options": ["Menawar", "Lelang", "Gadai"],
+    "answer": "Lelang"
+  },
+  {
+    "question": "Apa yang dimaksud mu'athah pada bab jual beli?",
+    "options": ["Sekedar saling qabul", "Sekedar saling aqad", "Sekedar saling memberikan"],
+    "answer": "Sekedar saling memberikan"
+  },
+  {
+    "question": "Apa hukum barang mu'athah di dunia dan akhirat?",
+    "options": ["Wajib dikembalikan dan di akhirat dimaafkan", "Tidak wajib dikembalikan dan di akhirat dimaafkan", "Wajib dikembalikan dan di akhirat tidak dimaafkan"],
+    "answer": "Wajib dikembalikan dan di akhirat dimaafkan"
   }
 ]
