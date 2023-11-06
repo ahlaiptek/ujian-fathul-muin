@@ -33,5 +33,10 @@
     "question": "Sebutkan apa saja syarat sahnya ijab dan qabul!",
     "options": ["Tanpa pemisah dan adanya ta'liq", "Dengan pemisah dan tidak adanya ta'liq", "Tanpa pemisah dan tidak adanya ta'liq"],
     "answer": "Tanpa pemisah dan tidak adanya ta'liq"
+  },
+  {
+    "question": "Apa hukumnya meminjamkan uang emas/perak untuk digadaikan aujah?",
+    "options": ["Tidak sah", "Sah", "Menurut aujah sah"],
+    "answer": "Menurut aujah sah"
   }
 ]
