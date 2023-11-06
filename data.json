@@ -23,5 +23,15 @@
     "question": "Apa hukum barang mu'athah di dunia dan akhirat?",
     "options": ["Wajib dikembalikan dan di akhirat dimaafkan", "Tidak wajib dikembalikan dan di akhirat dimaafkan", "Wajib dikembalikan dan di akhirat tidak dimaafkan"],
     "answer": "Wajib dikembalikan dan di akhirat dimaafkan"
+  },
+  {
+    "question": "Ada berapa syarat sahnya ijab dan qabul?",
+    "options": ["2", "1", "3", "4"],
+    "answer": "2"
+  },
+  {
+    "question": "Sebutkan apa saja syarat sahnya ijab dan qabul!",
+    "options": ["Tanpa pemisah dan adanya ta'liq", "Dengan pemisah dan tidak adanya ta'liq", "Tanpa pemisah dan tidak adanya ta'liq"],
+    "answer": "Tanpa pemisah dan tidak adanya ta'liq"
   }
 ]
